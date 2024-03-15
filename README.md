@@ -1,2 +1,2 @@
 # iframe Demo Page
-	[Hosted Link](https://www.example.com)
+	[HostedLink](https://www.example.com)
